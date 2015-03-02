@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Flags!</string>
+    <string name="action_settings">Settings</string>
+    
+    <string name="tv_time">000</string>
+    <string name="tv_mines_left">000</string>
+    
+    <string name="tv_game_over">GAME OVER</string>
+    
+    <string name="opt_reset">Reset game</string>
+    <string name="menu_mines_number">Set mines number</string>
+    <string name="menu_skins">Set skin</string>
+    <string name="opt_about">About of Flags!</string>
+    
+    <string name="opt_8_mines">8 mines</string>
+    <string name="opt_12_mines">12 mines</string>
+    <string name="opt_16_mines">16 mines</string>
+    
+    <string name="opt_skin_mines">Mines</string>
+    <string name="opt_skin_flowers">Flowers</string>
+    
+    <string name="about_of_title">About of Flags!</string>
+    <string name="about_of_text">v1.01 (24 Feb 2015)\n\n&#169; 2014 FloppySoftware\nwww.floppysoftware.vacau.com\nwww.cpm-connections.blogspot.com\nMiguel García - Valencia, Spain</string>
+    <string name="about_of_button">OK</string>
+
+</resources>

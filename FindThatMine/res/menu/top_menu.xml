@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/opt_reset"
+        android:title="@string/opt_reset"
+        />
+        
+    <item
+        android:id="@+id/menu_mines_number"
+        android:title="@string/menu_mines_number"
+        >
+    
+        <menu>
+            
+            <item
+        		android:id="@+id/opt_8_mines"
+        		android:title="@string/opt_8_mines" />
+        		
+            <item
+        		android:id="@+id/opt_12_mines"
+        		android:title="@string/opt_12_mines" />
+        		
+            <item
+        		android:id="@+id/opt_16_mines"
+        		android:title="@string/opt_16_mines" />
+                        
+        </menu>
+    </item>
+    
+    <item
+        android:id="@+id/menu_skins"
+        android:title="@string/menu_skins"
+        >
+    
+        <menu>
+            
+            <item
+        		android:id="@+id/opt_skin_mines"
+        		android:title="@string/opt_skin_mines" />
+        		
+            <item
+        		android:id="@+id/opt_skin_flowers"
+        		android:title="@string/opt_skin_flowers" />
+                       
+        </menu>
+    </item>
+    
+    <item
+    	android:id="@+id/opt_about"
+    	android:title="@string/opt_about"
+    	/>
+
+</menu>
